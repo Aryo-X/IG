@@ -14,6 +14,8 @@ $ pip install requests
 
 $ pip install mechanize
 
+$ rm -rf IG
+
 $ git clone https://github.com/Aryo-X/IG
 
 $cd IG
