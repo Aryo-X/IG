@@ -23,3 +23,6 @@ $cd IG
 $git pull
 
 $python Prem.py
+
+# Alat Ini Berbayar Yang mau beli Hubungi Wa di bawa
+# 085696526470
