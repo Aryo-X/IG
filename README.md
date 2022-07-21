@@ -24,5 +24,13 @@ $git pull
 
 $python Prem.py
 
-# Alat Ini Berbayar Yang mau beli Hubungi Wa di bawa
-# 085696526470
+# cara install script 
+$ rm -rf IG
+
+$ git clone https://github.com/Aryo-X/IG
+
+$cd IG
+
+$git pull
+
+$python Prem.py
